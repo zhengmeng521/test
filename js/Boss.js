@@ -1,0 +1,3 @@
+var Boss =  Class.extend({
+	
+})
